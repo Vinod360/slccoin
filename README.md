@@ -1,6 +1,6 @@
 SLC COIN
 
-![SLC Logo](https://slcglobal.io/assets/images/logo-white.png)
+![SLC Logo](http://139.162.10.98:3001/images/logo-white.png)
 
 
 
