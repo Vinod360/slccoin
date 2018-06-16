@@ -1,6 +1,9 @@
 SLC COIN
 
+
 TOTAL SUPLLY: 150 Million
+
+
 PRE MINE: 30 Million
 
 
