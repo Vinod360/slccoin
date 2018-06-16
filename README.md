@@ -16,12 +16,12 @@ Min Commission- .001
 Block Time- 1 min.
 
 
-Reward Point- 100 SLC  
+Reward Points- 100 SLC  
 
 Block Size- 1MB
 
 
-Total Coin- 150 Million
+Total Coins- 150 Million
 
 
 Pre-mined- 30 Million
