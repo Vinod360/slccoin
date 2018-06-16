@@ -1,5 +1,7 @@
 SLC COIN
 
+# [![Sia Logo](http://sia.tech/img/svg/sia-green-logo.svg)](http://sia.tech) v1.3.3 (Capricorn)
+
 ![UI](https://slcglobal.io/assets/images/logo-white.png)
 
 
