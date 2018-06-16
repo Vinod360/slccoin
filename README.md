@@ -1,6 +1,6 @@
 SLC COIN
 
-https://slcglobal.io/assets/images/logo-white.png
+![UI](https://slcglobal.io/assets/images/logo-white.png)
 
 
 TOTAL SUPLLY: 150 Million
